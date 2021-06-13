@@ -1,0 +1,5 @@
+D:\#1 Coding Area\#1 MyProjects\C#_TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+D:\#1 Coding Area\#1 MyProjects\C#_TournamentTracker\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+D:\#1 Coding Area\#1 MyProjects\C#_TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csprojResolveAssemblyReference.cache
+D:\#1 Coding Area\#1 MyProjects\C#_TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+D:\#1 Coding Area\#1 MyProjects\C#_TournamentTracker\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb
